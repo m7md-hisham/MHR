@@ -23,6 +23,7 @@ div {
 span {
 	position: absolute;
 	font-size: 125%;
+	padding: 2px;
 }
 
 #title1 {
