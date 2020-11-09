@@ -8,6 +8,7 @@
 
 h1 {
 	margin: 30px;
+	font-size: 175%;
 }
 
 div {
@@ -21,26 +22,27 @@ div {
 
 span {
 	position: absolute;
+	font-size: 125%;
 }
 
 #title1 {
 	background-color: red;
-	top: 8px;
-	right: 5px;
+	top: 4px;
+	right: 3px;
 	border: 1px solid black;
 }
 
 #title2 {
 	background-color: green;
-	top: 8px;
-	right: 5px;
+	top: 4px;
+	right: 3px;
 	border: 1px solid black;
 }
 
 #title3 {
 	background-color: blue;
-	top: 8px;
-	right: 5px;
+	top: 4px;
+	right: 3px;
 	border: 1px solid black;
 }
 
